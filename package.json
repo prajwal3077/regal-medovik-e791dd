@@ -1,0 +1,15 @@
+{
+  "name": "finwise-ai",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "npm --prefix frontend install && npm --prefix frontend run build",
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "@google/genai": "^1.30.0"
+  },
+  "devDependencies": {
+    "@netlify/functions": "^5.1.0"
+  }
+}
