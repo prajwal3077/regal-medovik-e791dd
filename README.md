@@ -1,4 +1,7 @@
 # FinWise AI – Personal Finance Advisor
+Document : https://1drv.ms/w/c/76047e3b9b3f4013/IQDkMkq6fRuhQ7vzDnd3dQNsAbhUrTg6gxAhboMnUWK3PY4?e=kDuskA
+
+Demo : https://drive.google.com/file/d/1OOBwNMTpQFwNCXMs3PqZhubB02Cx2KpM/view?usp=drive_link
 
 FinWise AI is an AI-powered personal finance assistant. Enter your income, monthly expenses, savings and a financial goal, and it uses Google's Gemini API to generate:
 
